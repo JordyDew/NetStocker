@@ -13,3 +13,6 @@ If you find any bugs in the project, please feel free to open issues. Though, I 
 
 I made that decision, since this application is a sample app. It isn't meant for production environments, nor will I ever recommend using this app. However, if you like how it is built, feel free to fork this repository and make your own application out of it.
 
+## License
+
+This project is licensed under the [MIT license](LICENSE)
